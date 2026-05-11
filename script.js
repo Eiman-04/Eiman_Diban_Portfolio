@@ -14,7 +14,7 @@ const projectsData = {
   title: "Sweet Reverie",
   role: "Focus: Gameplay Programming, Game Design, Level Design",
   desc: "Sweet Reverie is a roguelike action prototype currently in development. Players explore dangerous dungeons, fight ingredient-themed enemies, avoid traps, and collect rare resources. After each run, players return to a bakery hub where collected ingredients are automatically stored and used for recipe progression systems. The project focuses on combat mechanics, dungeon exploration, progression loops, and integrating a unique bakery-themed gameplay experience.",
-  images: ["images/SweetArt.png", "images/Sweet_Reverie00.png"]
+  images: ["images/SweetArt.png", "images/Conciipt.png","images/sweetreverie.png"]
 },
 "behind-wall": {
   title: "Behind the Wall",
