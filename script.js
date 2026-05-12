@@ -14,20 +14,25 @@ const projectsData = {
   title: "Sweet Reverie",
   role: "Focus: Gameplay Programming, Game Design, Level Design",
   desc: "Sweet Reverie is a roguelike action prototype currently in development. Players explore dangerous dungeons, fight ingredient-themed enemies, avoid traps, and collect rare resources. After each run, players return to a bakery hub where collected ingredients are automatically stored and used for recipe progression systems. The project focuses on combat mechanics, dungeon exploration, progression loops, and integrating a unique bakery-themed gameplay experience.",
-  images: ["images/SweetArt.png", "images/Conciipt.png","images/sweetreverie.png"]
+  images: ["images/Menu_UI_concept_rough_af.webp", "images/Conciipt.png","images/sweetreverie.png"]
 },
 "behind-wall": {
   title: "Behind the Wall",
-  role: "Role: Gameplay Programming, Puzzle Design, Level Design",
-  desc: "A 3D escape room prototype where players solve puzzles, avoid traps, and explore hidden paths to progress through the environment.",
+  role: "Role: Gameplay Programming, Game Design",
+  desc: "A first-person adventure and escape game prototype inspired by the historic Kara Prison in Meknès, Morocco. The project combines exploration, environmental puzzles, and cultural storytelling within a mysterious and immersive atmosphere. Players explore different areas of the prison, solve puzzles, collect key objects, and uncover hidden passages while avoiding traps and dangers.\n\nContributions included gameplay programming, puzzle design, interaction systems, player progression, and the integration of cultural and environmental elements to create an immersive experience inspired by Moroccan heritage.",
   images: ["images/BH1.png", "images/BH2.png", "images/BH3.png", "images/BH4.png"]
 },
 
 "dans-ombre": {
   title: "Dans l'Ombre",
-  role: "Focus: Exploration Design, Player Guidance, Interaction Systems",
-  desc: "A 3D exploration prototype focused on environmental interaction, puzzle-solving, and guiding players through immersive spaces.",
-  images: ["images/DO.png", "images/DO2.png", "images/DO3.png", "images/DO4.png"]
+  role: "Focus: Gameplay Programming, Puzzle Design, Exploration Design, Interaction Systems",
+  desc: "Prototype d’escape game en vue à la première personne développé sous Unity. Le projet se concentre sur l’exploration, les interactions environnementales et la résolution de puzzles simples dans une maison mystérieuse. Le joueur doit découvrir des indices, débloquer de nouvelles zones et trouver un moyen de s’échapper avant le retour du gardien.\n\nContributions sur la conception des mécaniques gameplay, les systèmes d’interaction, la progression du joueur, ainsi que l’intégration d’éléments visuels et sonores afin de renforcer l’immersion et l’ambiance du prototype.",
+  images: [
+    "images/DO.png",
+    "images/DO2.png",
+    "images/DO3.png",
+    "images/DO4.png"
+  ]
 }
 
 
